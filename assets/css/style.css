@@ -1621,7 +1621,7 @@ Portfolio
 
 .ejs-img {
   height: 50.16px;
-  width: 120px;
+  width: 120px !important;
 }
 
 .gf::before {
